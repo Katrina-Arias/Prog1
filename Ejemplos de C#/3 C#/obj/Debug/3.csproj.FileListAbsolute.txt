@@ -1,0 +1,11 @@
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\bin\Debug\3.exe.config
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\bin\Debug\3.exe
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\bin\Debug\3.pdb
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\3.csproj.SuggestedBindingRedirects.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\_3.form1.resources
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\3.exe
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\3\obj\Debug\3.pdb
