@@ -1,0 +1,17 @@
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\bin\Debug\net6.0-windows\Programa07_08.exe
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\bin\Debug\net6.0-windows\Programa07_08.deps.json
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\bin\Debug\net6.0-windows\Programa07_08.runtimeconfig.json
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\bin\Debug\net6.0-windows\Programa07_08.dll
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\bin\Debug\net6.0-windows\Programa07_08.pdb
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.csproj.AssemblyReference.cache
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.Form1.resources
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.csproj.GenerateResource.cache
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.AssemblyInfoInputs.cache
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.AssemblyInfo.cs
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.csproj.CoreCompileInputs.cache
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.dll
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\refint\Programa07_08.dll
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.pdb
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\Programa07_08.genruntimeconfig.cache
+C:\Users\20220534\source\repos\Programa07_05\Programa07_08\obj\Debug\net6.0-windows\ref\Programa07_08.dll
