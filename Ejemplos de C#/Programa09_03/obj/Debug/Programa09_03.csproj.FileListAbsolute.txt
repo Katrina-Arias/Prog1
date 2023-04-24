@@ -1,0 +1,6 @@
+C:\Users\18498\OneDrive\Documentos\Programación ejemplos del libro\C#\Programa09_03\obj\Debug\Programa09_03.csproj.AssemblyReference.cache
+C:\Users\18498\OneDrive\Documentos\Programación ejemplos del libro\C#\Programa09_03\obj\Debug\Programa09_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\18498\OneDrive\Documentos\Programación ejemplos del libro\C#\Programa09_03\obj\Debug\Programa09_03.Form1.resources
+C:\Users\18498\OneDrive\Documentos\Programación ejemplos del libro\C#\Programa09_03\obj\Debug\Programa09_03.Properties.Resources.resources
+C:\Users\18498\OneDrive\Documentos\Programación ejemplos del libro\C#\Programa09_03\obj\Debug\Programa09_03.csproj.GenerateResource.cache
+C:\Users\18498\OneDrive\Documentos\Programación ejemplos del libro\C#\Programa09_03\obj\Debug\Programa09_03.csproj.CoreCompileInputs.cache
