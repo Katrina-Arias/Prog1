@@ -1,0 +1,11 @@
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\bin\Debug\Programa10_03.exe.config
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\bin\Debug\Programa10_03.exe
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\bin\Debug\Programa10_03.pdb
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.csproj.AssemblyReference.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.csproj.SuggestedBindingRedirects.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.Form1.resources
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.Properties.Resources.resources
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.csproj.GenerateResource.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.csproj.CoreCompileInputs.cache
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.exe
+C:\Users\18498\OneDrive\Escritorio\Ejemplos de C#\Programa10_03\Programa10_03\obj\Debug\Programa10_03.pdb
